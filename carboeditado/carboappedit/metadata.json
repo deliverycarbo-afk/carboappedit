@@ -1,0 +1,8 @@
+{
+  "name": "CARBOAPP",
+  "description": "Sistema de gestão de delivery e logística com foco em design robusto e identidade visual escura.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
